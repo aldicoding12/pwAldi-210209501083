@@ -1,2 +1,2 @@
-# HIDTORY PHP DASAR
+# HISTORY PHP DASAR
 Tugas Pemograman Web 
